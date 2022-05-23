@@ -811,7 +811,7 @@ function song(){
             },
             {
                 name: 'May Mắn Khi Có Em',
-                singer: 'Đật Villa, Phạm Sắc Lệnh',
+                singer: 'Đạt Villa, Phạm Sắc Lệnh',
                 path: './assets/music/MayManKhiCoEm.mp3',
                 imageNumber: './assets/nummber-image/ten.png',
                 imageSong: '/assets/image-singer/MaiManKhiCoEm.webp',
